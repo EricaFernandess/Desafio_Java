@@ -47,7 +47,7 @@ public class ContaTerminal {
             // Solicitando que o usuário digite os dados para abertura de conta
             contaTerminal.solicitarDados();
 
-            // Exibindo os dados digitados
+            // Exibindo os dados digitados pelo usuário
             contaTerminal.exibirDados();
         }
 }
